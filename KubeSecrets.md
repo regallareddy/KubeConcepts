@@ -6,3 +6,4 @@
 * To switch to a different namespace: kubectl config set-context $(kubectl config current-context) --namespace={desired namespace}
 
 * ps aux : command is a tool to monitor processes running on your Linux system.
+* [decode a token](https://jwt.io/)
