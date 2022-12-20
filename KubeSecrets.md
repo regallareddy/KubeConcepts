@@ -4,3 +4,5 @@
 
 [please follow the document provided by Suse about the namespaces](https://www.suse.com/c/rancher_blog/introduction-to-kubernetes-namespaces/)
 * To switch to a different namespace: kubectl config set-context $(kubectl config current-context) --namespace={desired namespace}
+
+* ps aux : command is a tool to monitor processes running on your Linux system.
