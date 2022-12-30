@@ -7,3 +7,5 @@
 
 * ps aux : command is a tool to monitor processes running on your Linux system.
 * [decode a token](https://jwt.io/)
+
+* To extract logs from a pods: kubectl -n <name-space> exec -it <podname> -- cat {path of the logs}/log/app.log
